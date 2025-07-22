@@ -1,4 +1,38 @@
-                                 Apache License
+LearnAdapt-v1 License
+Modified Apache License 2.0 – NonCommercial Use Only
+
+Copyright 2025 Mohammad Nizam Bin Abdul Kadir
+
+Licensed under the Apache License, Version 2.0 (the "License"), with the following addition:
+
+----------------------------------------------------------------------
+IMPORTANT ADDITION: NON-COMMERCIAL USE ONLY
+----------------------------------------------------------------------
+
+Notwithstanding any terms in the Apache License, **you may use, reproduce,
+modify, and distribute this Work and Derivative Works only for
+non-commercial purposes**, such as academic research, teaching, personal use,
+or non-profit educational deployment.
+
+**Commercial use is explicitly prohibited** unless prior written permission
+is granted by the Licensor (Mohammad Nizam Bin Abdul Kadir). This includes,
+but is not limited to:
+
+- Offering the Work as part of a paid product or service
+- Using the Work for internal commercial operations or revenue-generating activity
+- Redistributing the Work in a commercial or proprietary software stack
+
+“Commercial use” means use primarily intended for or directed toward
+commercial advantage, monetary compensation, or other financial gain.
+
+For commercial licensing inquiries, please contact:  
+📧 nizam[at]precisioneducation[dot]org
+
+All other terms and conditions of the Apache License 2.0 apply.
+
+----------------------------------------------------------------------
+
+                               Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -186,7 +220,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2025 Mohammad Nizam Bin Abdul Kadir
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
